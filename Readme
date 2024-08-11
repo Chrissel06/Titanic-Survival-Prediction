@@ -1,5 +1,6 @@
 
-#Titanic Survivor Predictor
+#Titanic Survivor Predictor🚢
+
 This project builds a machine learning model to predict whether a passenger survived the sinking of the Titanic based on various features such as age, gender, class, and more. The dataset used for training the model is the well-known Titanic dataset from Kaggle.
 
 
